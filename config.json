@@ -1,0 +1,144 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "Stupid Utilities",
+        "role": "Hello,this is my first mcpe addon,i will add a lot of content in this addon,like items that no one will use but will exist.And who will choose the update content will be YOU.How to do that?Go to comments and show you idea.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/6Stupid_Utilities_v1.0_FV_1642689897437.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/3.png"
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/eRbNz_jzZuz_FS1-_VRd3y9nJszaPe9aWfYsWe1Je5uAj_8pbqYqIkqCy-ryPFRtYIpvzv_W2XaKQeShrT82TIE",
+    "view_skin": "https://lh3.googleusercontent.com/155lV4tP6OgF_EoiTISm3VGWfWWr2uawY2neU41yIm_9at2pwfN3syUHaCXQoCoWPltFus73SmgjpxGwr1eV"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/BGw8ky_tnndm8KDIT6eh_3zqCzta8uDICTZrFtUqrwxma8Em6Hbw51G5XAWcSCq11gMAtEYvQv6apNtz3UTR",
+    "view_skin": "https://lh3.googleusercontent.com/2s6ZQeIRU-nh7j-v4CPTI2UvVDt6QkDq7JjbI4soEsTu3EyoljZ6jwqjX9C4SYa6n4gj7a7XdlOW24KY74ObOu8"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/V8HqGwzLmK7WJO9tBZQENjYrn6DV_oTwb3vK0DtHXySiQUbPqXLzmZXCYVa0W47wt2vZkvBfvw2IOoHunYg_",
+    "view_skin": "https://lh3.googleusercontent.com/zykXCWwPVVAQGED9Ae2yFZCkIGs26aOyZMOcHTrBf_Op58dg3S1Pgn1-iaUvHWWLm4Lw_G-wUk2_wmaPQ6Jv"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/NhX-fUxijgq6MfkUMfb97JjnDKN6b3ewbp0HAzO4FVj-Z0fLOiE1jZqOk-nXqLwRxoSy9iovh0u7LYknRt6vuA",
+    "view_skin": "https://lh3.googleusercontent.com/VYKBogKzpyiUZzlWzORmhuuQsuJZ4CAEwhu2e3I_vWdNk9y7YW2_SAXxcLPMy3pE221iAIZWIyT4zSTjWWbIJA"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/turORwAeqSmntMexTrZNJzP7dutywlAWxWwzvhhHgjxTfAsbB_n6kPyrhbXYOdcjQ6rM7ZWgEfTWSPU2QMiN1qo",
+    "view_skin": "https://lh3.googleusercontent.com/rMdIi_0UTCVpunu3slvbmzzBmGTyga8SANZDnwechFMxHYUEiDWSQ3qnIcgA8_fbBfB6FBleQVTAarqlMQBM-d8"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/hKRa5KAnIEQfufY5_1ivRDjIYNZAWmsak6tDuQ0nOT8vr0-v0ALjtk5WtURbGsPuSq8x0WQlRRJqRc2zq6ptcg",
+    "view_skin": "https://lh3.googleusercontent.com/6PVwOvkp7hBHLj0JPtcRpxMSoM7OHtaNyQMNF4vK4NjQX_gN60jL1p-K4eWxE3B0jGyCy2gcCaEIB-TVLdq6"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/vCMjwugo_c1pWWuzpqFpRlTM-hZq8W-R-LRKZvk8Rk_nYAd2rMU91tqo6l1pAc3hTUyWz5rO4x0-Uy-VmW8u",
+    "view_skin": "https://lh3.googleusercontent.com/PFi-_mMjmtCF3TXoigm8kyc23gGNoV9O1vu1be2BVvOBwYNwfW1TWxv9iCJRCcj8CRquYZJ6yEqaKg-E5msLrs8"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/oJPal3mWo986yYo4RzmeVm6zvBu07ftQfOtHfOgcJCgW2fSUWqt6R7fP9MRAHXzFVDrUgd4zSNhP4CUHE_uggLk",
+    "view_skin": "https://lh3.googleusercontent.com/WdMxggK-NATfsyPkk-Hxm-mlmvN0ZD7AtL-w79i0bS2eKu0M_A_WukoE5-16q16tk_QANprRYxvyX3FQqbwxxQ"
+  },
+  {
+    "id": 9,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/BDDYZnOuj9JcC0tT8u7fFLegH04l-lq-mJtSjnBiCFo3B5NbCIq59WvSXsdQl8L1PVEPgRBVO_ITVpZBE3BF",
+    "view_skin": "https://lh3.googleusercontent.com/da-s7txT96Ubx8SxBtjzmhoolNsTWgpQ2UIWFeMC9VpKdrAkvnN-Xdhk5FJqh8cl5WtlOeKMcMOk8orGrJ749g"
+  },
+  {
+    "id": 10,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/iFKt5v7ksaIh4U_YSsCMJd_4P0iB7EU2vh7jJVkyfzMLtLtWxjGK5VqJDQFGunZxzmW7SP3g4j9KpwQtgnt2QIATY8mbDRMEGAw",
+    "view_skin": "https://lh3.googleusercontent.com/e7BX-qi266zcouH2QZ62_dlClaP3oJLuJ9aTlyJCyClo9iRcu9DLAOgZ23IO6vZcf6ZRKijLwBM0wXCkI41VKbf51nsriwD42fY"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
