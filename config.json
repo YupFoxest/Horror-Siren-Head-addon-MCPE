@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,12 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "Stupid Utilities",
-        "role": "Hello,this is my first mcpe addon,i will add a lot of content in this addon,like items that no one will use but will exist.And who will choose the update content will be YOU.How to do that?Go to comments and show you idea.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/6Stupid_Utilities_v1.0_FV_1642689897437.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/3.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
